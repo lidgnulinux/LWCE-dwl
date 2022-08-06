@@ -1,0 +1,8 @@
+show=drun
+prompt=search
+insensitive=true
+allow_images=true
+image_size=18
+key_expand=Control_R
+xoffset=-10
+yoffset=2
